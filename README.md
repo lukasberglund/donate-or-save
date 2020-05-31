@@ -3,5 +3,4 @@ Calculate how much more money you would donate if you saved it and donated at th
 
 ## How to use
 - Clone or download directory 
-- Tweak global constants (Optional)
 - Run `python3 src/driver.py` in the directory
